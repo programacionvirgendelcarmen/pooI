@@ -3,7 +3,7 @@ package teoria;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Test {
+public class TestCirculo {
     public static void main(String[] args) {
         //creamos una colección de objetos Circulo
         List<Circulo> circulos = new ArrayList<>();

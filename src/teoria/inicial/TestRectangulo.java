@@ -1,4 +1,4 @@
-package teoria;
+package teoria.inicial;
 
 import java.util.Arrays;
 import java.util.Scanner;

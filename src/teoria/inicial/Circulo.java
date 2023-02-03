@@ -1,4 +1,4 @@
-package teoria;
+package teoria.inicial;
 
 public class Circulo {
     //atribtutos

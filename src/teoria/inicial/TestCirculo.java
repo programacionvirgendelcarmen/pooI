@@ -1,4 +1,4 @@
-package teoria;
+package teoria.inicial;
 
 import java.util.ArrayList;
 import java.util.List;
